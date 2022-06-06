@@ -1,0 +1,27 @@
+{
+	"name": "Jancy",
+	"email": "jancy@gmail.com",
+	"phoneNo": 8765432890,
+	"studDetails": [
+		{
+			"firstName": "Esra",
+			"course": "Java",
+			"address": "chennai"
+		},
+		{
+			"firstName": "Ozan",
+			"course": "Python",
+			"address": "Hydrabad"
+		},
+		{
+			"firstName": "Eco",
+			"course": "Api",
+			"address": "Trichy"
+		},
+		{
+			"firstName": "Elif",
+			"course": "Selenium",
+			"address": "Pondi"
+		}
+	]
+}
